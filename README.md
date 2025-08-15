@@ -117,7 +117,4 @@ O projeto também implementa **Swagger** para documentação automática e **mig
 ## 📅 Status do Projeto
 ✅ **Concluído** – API funcional com todos os requisitos do desafio implementados.
 
----
 
-## ✨ Autor
-Desenvolvido como parte do desafio **Trilha .NET - API e Entity Framework** da [Digital Innovation One](https://www.dio.me).
